@@ -103,7 +103,8 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: white;
+    font-weight: bold;
 }
 
 .d-bloc button:hover {
@@ -284,6 +285,7 @@ a:hover {
 .row.row-no-gutters > [class*=" col-"] {
     padding-right: 0;
     padding-left: 0;
+    
 }
 
 #bloc-1-hero h1 {
@@ -363,6 +365,9 @@ a:hover {
     float: right;
     position: relative;
     z-index: 2;
+}
+span.fa.fa{
+    color:black;
 }
 
 @media (min-width: 768px) {
@@ -705,6 +710,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    
 }
 
 h2 {
@@ -739,7 +745,8 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: black!important;
+    font-weight: bold;
 }
 
 .portfolio-thumb {
@@ -773,6 +780,7 @@ h4 {
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
+    
 }
 
 .tc-white {
