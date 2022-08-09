@@ -366,8 +366,9 @@ a:hover {
     position: relative;
     z-index: 2;
 }
-span.fa.fa{
+span.fa.fa {
     color:black;
+   
 }
 
 @media (min-width: 768px) {
