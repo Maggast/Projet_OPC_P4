@@ -718,6 +718,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    color:black;
 }
 
 h3 {
@@ -734,7 +735,9 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color:black!important;
+    text-align: center;
+    font-weight: bold;
 }
 
 h4 {
@@ -786,7 +789,7 @@ h4 {
 }
 
 .tc-white {
-    color: #FFFFFF!important;
+    color: black!important;
     font-weight: bold;
   
 }
